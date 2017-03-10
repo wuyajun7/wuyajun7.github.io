@@ -8,7 +8,7 @@ url: "http://wuyajun7"
 
 # About/contact
 owner: 
-  name: " ZhagnHuan"
+  name: "Peter"
   email: TheBlueSky123@gmail.com
   bio: "天道酬勤，皆有可能"
 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  zhanghuan
-twitter_username: zhanghuan
-github_username: zhanghuan
+douban_username:  peter
+twitter_username: peter
+github_username: peter
 facebook_username: 
-weibo_username: zhanghuan
-zhihu_username: zhanghuan
+weibo_username: peter
+zhihu_username: peter
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "zhanghuan"
+      author: "peter"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus
   duoshuo :
-    short_name : zhanghuan
+    short_name : peter
   disqus :
-      short_name : zhanghuan
+      short_name : peter
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
