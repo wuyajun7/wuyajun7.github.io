@@ -4,7 +4,7 @@
 
 ##天道酬勤-立即行动
 
-我是张欢，博客：[www.zhanghunahome.com](zhanghunahome.com)
+我是Peter，博客：[www.zhanghunahome.com](zhanghunahome.com)
 
 ##坚信
 

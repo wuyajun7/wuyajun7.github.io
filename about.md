@@ -10,11 +10,11 @@ header-img: "img/green.jpg"
     <p><img src="http://om0s5wipx.bkt.clouddn.com/blog/image/head.jpeg" align="center"></p>
 </center>
 
-我是张欢
+我是Peter
 
 ###联系
 
-- [博客：www.zhanghuanhome.com](www.zhanghuanhome.com)
+- [博客：www.wuyajun7.com](www.wuyajun7.com)
 
 
 <center>
