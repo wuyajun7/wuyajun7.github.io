@@ -1,27 +1,27 @@
 # Site settings
 title: 天道酬勤-立即行动
-header-img: "img/icon.png"
+header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Peter|读而立·写而生"
+description: "张欢|读而立·写而生"
 baseurl: ""
-url: "http://wuyajun7"
+url: "http://zhanghuanhome"
 
 # About/contact
 owner: 
-  name: "Peter"
+  name: " ZhagnHuan"
   email: TheBlueSky123@gmail.com
-  bio: "天道酬勤，皆有可能"
+  bio: "天道酬勤，皆有可能1"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  peter
-twitter_username: peter
-github_username: peter
+douban_username:  zhanghuan
+twitter_username: zhanghuan
+github_username: zhanghuan
 facebook_username: 
-weibo_username: peter
-zhihu_username: peter
+weibo_username: zhanghuan
+zhihu_username: zhanghuan
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "peter"
+      author: "zhanghuan"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus
   duoshuo :
-    short_name : peter
+    short_name : zhanghuan
   disqus :
-      short_name : peter
+      short_name : zhanghuan
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
